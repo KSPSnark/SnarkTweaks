@@ -32,13 +32,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\..\..\..\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="Microsoft.CSharp" />
     <Reference Include="UnityEngine">
-      <HintPath>..\..\..\Managed\UnityEngine.dll</HintPath>
+      <HintPath>..\..\..\..\Managed\UnityEngine.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
